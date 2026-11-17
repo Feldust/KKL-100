@@ -1,0 +1,6 @@
+{
+  "name": "Survey Showdown",
+  "description": "Live event Family 100 and Family Feud survey game board with answer matching, point scoring, and dramatic strike overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
